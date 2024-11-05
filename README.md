@@ -7,7 +7,12 @@ Hello, I'm Sherif, a student at the Faculty of Computers and Information at Mans
 
 I am passionate about learning and am always open to new challenges and opportunities in the field of computer science.
 
-Skills: PYTHON / OOP / Data Structure / Algorithm
+Skills:
+* PYTHON
+* OOP
+* Data Structure
+* Algorithm
+* C++
 
 - 🔭 I’m currently working on this page. 
 
