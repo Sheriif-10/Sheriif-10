@@ -2,16 +2,31 @@
 #### Cs Student | Competitve Programming
 ![Cs Student | Competitve Programming](https://i.pinimg.com/564x/2d/d8/03/2dd8031b5e88f0104d083e4ed6233bc0.jpg)
 
-Hello, I'm Sherif, a student at the Faculty of Computers and Information at Mansoura University. I have a strong foundation in programming, having learned languages like Python and C++. I also had the opportunity to participate in the ACPC (Arab Collegiate Programming Contest), where I gained valuable experience in problem-solving and teamwork. Recently, I started exploring the field of pentesting, as I am keen to expand my skills in cybersecurity.
+# 👋 Hello, I'm Sherif
 
-I am passionate about learning and am always open to new challenges and opportunities in the field of computer science
+I'm a Computer Science student at Mansoura University and an aspiring Backend Developer specializing in **Node.js** and **JavaScript**.
 
-Skills: 
-* Python 
-* OOP
-* Data Structure
-* Algorithm
+I have a strong foundation in **Data Structures, Algorithms, OOP, and Problem Solving**, with experience using **C++, Python, and JavaScript**.
+
+Currently, I'm focusing on backend development and building web applications using **Node.js, Express.js, and REST APIs**, while continuously improving my understanding of backend architecture, databases, and software development best practices.
+
+I also participated in the **ECPC (Egyptian Collegiate Programming Contest)**, where I gained valuable experience in problem-solving, algorithms, and teamwork.
+
+### 🛠️ Skills
+
+* JavaScript
+* Node.js
+* Express.js
+* REST APIs
 * C++
+* Python
+* OOP
+* Data Structures
+* Algorithms
+* Problem Solving
+* Git & GitHub
+
+🚀 **Currently:** Building backend projects and strengthening my Node.js development skills.
 
 - 🔭 I’m currently working on this page. 
 
