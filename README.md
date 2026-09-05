@@ -14,10 +14,8 @@ I also participated in the **ECPC (Egyptian Collegiate Programming Contest)**, w
 
 ### 🛠️ Skills
 
+* C#
 * JavaScript
-* Node.js
-* Express.js
-* REST APIs
 * C++
 * Python
 * OOP
@@ -26,7 +24,7 @@ I also participated in the **ECPC (Egyptian Collegiate Programming Contest)**, w
 * Problem Solving
 * Git & GitHub
 
-🚀 **Currently:** Building backend projects and strengthening my Node.js development skills.
+🚀 **Currently:**  Aspiring Backend Developer.
 
 - 🔭 I’m currently working on this page. 
 
